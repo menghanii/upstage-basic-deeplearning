@@ -8,3 +8,6 @@ This repo contains five tutorials with blanks to fill marked with `# FILL IN HER
 5. Multi-Headed Attention ([mha](https://github.com/sjchoi86/upstage-basic-deeplearning/blob/main/notebook/mha.ipynb))
 
 Contact: Sungjoon (sungjoon-choi at korea dot ac dot kr)
+
+
+안뇽 명한, 나는 경환
